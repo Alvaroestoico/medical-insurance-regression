@@ -17,9 +17,3 @@ Predecir el coste del seguro médico y analizar qué factores influyen más en d
 - Matplotlib / Seaborn  
 - Scikit-learn  
 - Jupyter Notebook  
-
----
-
-## 📂 Contenido del repositorio
-- **notebook/** → Notebook principal con el análisis completo  
-- **data/** → Dataset utilizado (`insurance.csv`)  
